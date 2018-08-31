@@ -1,0 +1,25 @@
+.form {
+  position: absolute;
+  right: 500px;
+  top: 100px;
+  width: 500px;
+  height: 600px;
+  background-color: teal;
+
+}
+
+input {
+  position: relative;
+  margin-left: 50px;
+  margin-top: 20px;
+  width: 400px;
+  height: 20px;
+}
+
+img {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 50px;
+  width: 400px;
+  height: 200px;
+}
